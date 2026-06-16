@@ -99,7 +99,7 @@ public class Interface {
         System.out.println();
 
         exibirLetrasErradas(palavra.getLetrasErradas());
-        System.out.println();
+        System.out.println();//
     }
 
     private void exibirForca(int erros) {
