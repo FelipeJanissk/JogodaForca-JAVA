@@ -86,7 +86,6 @@ public class Interface {
         exibirBanner();
         System.out.println();
 
-        // Forca proporcional ao numero de erros
         int erros = jogador.getTentativasMaximas() - jogador.getTentativasRestantes();
         exibirForca(erros);
 
@@ -196,7 +195,6 @@ public class Interface {
             }
             pb.inheritIO().start().waitFor();
         } catch (Exception e) {
-            // Fallback: imprimir linhas em branco
             for (int i = 0; i < 40; i++) {
                 System.out.println();
             }
