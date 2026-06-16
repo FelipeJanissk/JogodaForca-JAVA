@@ -1,7 +1,7 @@
 # Jogo da Forca — Java CLI
 
-> Projeto desenvolvido para a disciplina de [Nome da Disciplina]  
-> Instituição: [Nome da Universidade]  
+> Projeto desenvolvido para a disciplina de Modelagem e Programação de Sistemas Computacionais
+> UNOESC CHAPECÓ 
 > Data de entrega: 16/06/2026
 
 ---
@@ -17,12 +17,8 @@ O sistema seleciona palavras aleatórias de um banco de dados em arquivo texto e
 
 | Nome | GitHub |
 |------|--------|
-| [Nome 1] | [@usuario1] |
-| [Nome 2] | [@usuario2] |
-| [Nome 3] | [@usuario3] |
-| [Nome 4] | [@usuario4] |
-
-> ⚠️ **Preencha a tabela acima com os dados reais da equipe antes da entrega.**
+| [Ricardo Kerppers] | [] |
+| [Felipe Samuel Janissk] | [@FelipeJanissk] |
 
 ---
 
